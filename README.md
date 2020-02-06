@@ -33,7 +33,7 @@ uses win10 utility "NOTEPAD" (記事本, at win10 CHT version), open and save .a
 ![NOTEPAD_OPEN.JPG](NOTEPAD_OPEN.JPG)  
 
 validation, done and sucess.
-![ASC_ANSI_OK.JPG\(ASC_ANSI_OK.JPG)  
+![ASC_ANSI_OK.JPG](ASC_ANSI_OK.JPG)  
 
 
 
